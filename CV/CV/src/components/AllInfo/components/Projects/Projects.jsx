@@ -72,7 +72,7 @@ export const LatestProjects = ({ ChangeTheme }) => {
                         </li>
                         <li>
                             <a
-                                href="https://cvevg-61fd1.web.app/"
+                                href="https://github.com/evgenycz/CV_project"
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
